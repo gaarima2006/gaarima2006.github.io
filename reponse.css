@@ -1,0 +1,62 @@
+h3{
+    padding: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.hos{        
+    
+     background-color: #0a6ebd;
+            color: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+.form
+{
+
+margin: 20px auto;
+padding: 20px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: left;
+height: 50%;
+width: 50%;
+text-align: center;
+@keyframes  {
+    
+}
+
+}
+#submit{
+    padding: 0px 10px;
+    color: white;
+    background-color: #0a6ebd;
+    
+    font-size: 20px;
+}
+button{
+    align-items: center;
+}
+.background{
+    background: url('./hos.png') no-repeat center center/cover;
+    top:0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+   opacity: .53;
+    
+
+}
+:placeholder-shown{ 
+    border-radius: 250px;
+    background-color: aliceblue;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+
+}
